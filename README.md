@@ -29,8 +29,8 @@ Gosto de transformar ideias em soluções organizadas, eficientes e com impacto 
 
 <div> 
   <a href="https://www.instagram.com/joaomeddeiross/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "joaomiguel47754@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-miguel-de-medeiros-4514472a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p>E-mail: joaomiguel47754@gmail.com</p>
   
 </div>
 
