@@ -20,7 +20,7 @@ Gosto de transformar ideias em soluções organizadas, eficientes e com impacto 
 ### 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,python,html,css,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,php,react,html,css,git,mysql" />
 </p>
 
 ---
