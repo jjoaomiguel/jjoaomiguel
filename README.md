@@ -28,10 +28,10 @@ Gosto de transformar ideias em soluções organizadas, eficientes e com impacto 
 ### 🌎 Contato
 
 <p>
-  <a href="https://linkedin.com/in/SEULINK">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-de-medeiros-4514472a0/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:joaomiguel47754@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail"/>
   </a>
 </p>
