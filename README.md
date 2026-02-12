@@ -1,19 +1,83 @@
-## Olá eu sou o João Medeiros👋
+<!-- BANNER / HEADER ANIMADO -->
+<h1 align="center">
+  👋 Olá, eu sou João Medeiros
+</h1>
 
-- 💻 Estou cursando bacharelado em Engenharia de Software no Centro Universitário Católico de Santa Catarina
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Full+Stack+Developer;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+---
+
+## 🚀 Sobre mim
+
+🎓 Estudante de **Engenharia de Software**  
+💻 Técnico em **Desenvolvimento de Sistemas**  
+⚡ Focado em performance, organização e inovação  
+📚 Sempre aprendendo novas tecnologias  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,python,html,css,git,github,mysql,figma" />
 
 </div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
   
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/joaomeddeiross/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao_m_medeiros@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-miguel-de-medeiros-4514472a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌎 Conecte-se comigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEULINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEUEMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribuições animadas
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## ✨ Frase que me define
+
+> “Transformando ideias em soluções reais através da tecnologia.”
+
+---
+
+<p align="center">
+  🚀 Obrigado por visitar meu perfil!
+</p>
