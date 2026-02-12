@@ -31,7 +31,7 @@ Gosto de transformar ideias em soluções organizadas, eficientes e com impacto 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-de-medeiros-4514472a0/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:joaomiguel47754@gmail.com">
+  <a href="https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcRzDCtvLCHXqccRnzfLkGjjZfGRBDZWsJqFNRbhkPCQnHqlkfpXptmDMVQcRnLbVmkBccVKr">
     <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail"/>
   </a>
 </p>
